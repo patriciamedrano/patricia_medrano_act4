@@ -279,7 +279,7 @@
                 <thead>
                     <tr>
                         <th>ID</th>
-                        <th>First Names</th>
+                        <th>First Name</th>
                         <th>Last Name</th>
                         <th>Email</th>
                         <th>Username</th>
